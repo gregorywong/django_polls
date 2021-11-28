@@ -11,6 +11,11 @@ Run the necessary migrations:
 python manage.py migrate
 ```
 
+Create admin user:
+```
+python manage.py createsuperuser
+```
+
 ## Starting the App
 
 Start the server:
