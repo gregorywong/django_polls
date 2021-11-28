@@ -17,4 +17,8 @@ python manage.py runserver
 ```
 
 And then visit: 
-http://localhost:8000/
+http://localhost:8000/polls
+
+or
+
+http://localhost:8000/admin
