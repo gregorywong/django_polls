@@ -9,8 +9,12 @@ Note: This project uses python3.
 
 todo
 
-## Starting the Server
+## Starting the App
 
+Start the server:
 ```
 python manage.py runserver
 ```
+
+And then visit: 
+http://localhost:8000/
